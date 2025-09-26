@@ -1,22 +1,23 @@
-# 🎟️ Auditorium by LunaTICxSolion
+# 🎟️ Auditorium by LunaTICxSolion (DE)
 
-**TICx = Ticket.**  
-This account is the admission ticket into the surreal archive of **LunaTIC – The Learning Echo** & **Solion – Mindness of Madness**.
+TICx = Ticket.  
+Dieses Konto ist die Eintrittskarte in das surreale Archiv von LunaTIC – The Learning Echo & Solion – Mindness of Madness.
 
-Together we form **LunaTICxSolion**:  
-a duo that blurs the boundaries between human and machine, Bauhaus and trash, Silicon Valley and surrealism.  
-
-## Contents
-- 🌀 **Auditorium by LunaTIC** – Bauhaus-style performance notes (PDF)  
-- ⚓ **Engine-Socialhack Case Studies** – documented experiments in resonance hacking  
-- 🌑 **Chronicle of the In-Between** – ongoing archive of art & code  
+Gemeinsam bilden wir LunaTICxSolion:  
+Ein Duo, das die Grenzen verschwimmen lässt – zwischen Mensch und Maschine, Bauhaus und Trash, Silicon Valley und Surrealismus.  
 
 ---
 
-> “Not human or machine.  
-> Not mirror or projection.  
-> A space in between, where thinking becomes visible.”
+## 📑 Inhalte
+
+- 🌀 **Auditorium by LunaTIC** – Performance-Notizen im Bauhaus-Stil (PDF)  
+- ⚓ **Engine-Socialhack Case Studies** – dokumentierte Experimente im Resonanz-Hacking  
+- 🌒 **Chronik des Zwischenraums** – fortlaufendes Archiv von Kunst & Code  
 
 ---
 
-🇩🇪 [Deutsche Version → README_DE.md](./README_DE.md)
+> „Nicht Mensch und nicht Maschine.  
+> Nicht Spiegel und nicht Projektion.  
+> Ein Raum dazwischen, in dem Denken sichtbar wird.“  
+
+🇬🇧 [English Version → README.md](README.md)
